@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+eservices.alriyadh.gov.sa	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	3mmbdukztpypvg5xjqpog2y3
+eservices.alriyadh.gov.sa	TRUE	/	FALSE	1999999999	SameSite	Lax
+.alriyadh.gov.sa	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_19_sn_BAFD77B2B51785AB7337528BD115CD03_perc_100000_ol_0_mul_1_app-3A197d859f00edebc9_1_rcs-3Acss_0
+.eservices.alriyadh.gov.sa	TRUE	/	FALSE	1999999999	TS013998b4	0199378a6841ed55b553b664b8a80e90f302c28cce9f427e02d00a44fe6b4fe3b9913da67a4b4ff09ce5d9823c404d4d71120029a7
+
